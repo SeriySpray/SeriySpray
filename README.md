@@ -17,5 +17,6 @@
 - Contribute to open-source projects  
 
 📫 Get in Touch  
-- Email: cimbal859@gmail.com 
+- Email: cimbal859@gmail.com
+  
 Feel free to explore my repositories and share your feedback or suggestions!
