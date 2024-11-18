@@ -1,6 +1,8 @@
 👋 Hi there! I'm Tsymbal Serhii  
+
 📚 About Me  
-🎓 First-year Computer Science student at **Vinnitsa National Technical University**  
+🎓 First-year Computer Science student at "Vinnitsa National Technical University" 
+
 💻 Passionate about technology, problem-solving, and continuous learning  
 
 💡 Skills and Interests  
