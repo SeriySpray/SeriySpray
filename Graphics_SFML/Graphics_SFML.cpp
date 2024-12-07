@@ -71,7 +71,7 @@ int main()
     MiddleSprite.scale(Vector2f(7.5, 7.5));
     MiddleSprite.setPosition(Vector2f(0, 0));
 
-
+        
 
     //------------------ VARIABLES ------------------
 
@@ -155,11 +155,9 @@ int main()
                 frameClock.restart();
             }
 
-            if (positionEnemy + Vector2f(200, 200) == (position + Vector2f(200, 200)))
-            {
-                enemySprite.setPosition(2000, 750);
-            }
+
         }
+
 
         if (Keyboard::isKeyPressed(Keyboard::Comma))
         {
