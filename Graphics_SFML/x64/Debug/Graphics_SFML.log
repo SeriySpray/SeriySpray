@@ -1,0 +1,6 @@
+﻿  Graphics_SFML.cpp
+  main.cpp
+C:\Users\User\source\repos\Graphics_SFML\Graphics_SFML\main.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+main.obj : error LNK2005: main already defined in Graphics_SFML.obj
+C:\Users\User\source\repos\Graphics_SFML\x64\Debug\Graphics_SFML.exe : fatal error LNK1169: one or more multiply defined symbols found
