@@ -7,7 +7,7 @@
 
 💡 Skills and Interests  
   - Programming Languages:  
-  - C  
+  - Java 
   - C++  
   - SQL  
   - HTML
