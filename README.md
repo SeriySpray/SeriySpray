@@ -1,6 +1,6 @@
 ﻿<p>
   <img align="left" src="assets/avatar.jpg" alt="Coffee Dog" width="145" style="border-radius: 14px; margin-right: 20px; margin-bottom: 12px;" />
-  <h1>Serhii Tsymbal</h1>
+  <span style="font-size: 26px; font-weight: 700; display: block; margin-bottom: 4px;">Serhii Tsymbal</span>
   <code>&gt; Software Engineer // Coffee-driven Development</code><br /><br />
   Focused on resilient full-stack systems, AI-powered integrations, and scalable cloud architecture.<br /><br />
   <a href="https://github.com/SeriySpray?tab=followers"><img src="https://img.shields.io/github/followers/SeriySpray?style=flat-square&logo=github&label=Followers&color=161b22&logoColor=white" alt="Followers" /></a>
@@ -9,8 +9,6 @@
 </p>
 
 <br clear="both" />
-
----
 
 ### Overview
 
