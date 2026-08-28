@@ -1,15 +1,16 @@
 ﻿<table>
   <tr>
-    <td width="190" align="center" valign="middle">
-      <img src="assets/avatar.jpg" alt="Coffee Dog" width="165" style="border-radius: 12px; border: 1px solid #30363D;" />
+    <td width="200" align="center" valign="middle">
+      <img src="assets/avatar.jpg" alt="Coffee Dog" width="165" style="border-radius: 16px; border: 2px solid #30363D; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);" />
     </td>
     <td valign="middle">
       <h1>Serhii Tsymbal</h1>
-      <p><code>Software Engineer // Coffee-driven Development</code></p>
-      <p>Focused on resilient full-stack systems, AI-powered integrations, and high-performance applications.</p>
+      <p><code>&gt; Software Engineer // Coffee-driven Development</code></p>
+      <p>Focused on resilient full-stack systems, AI-powered integrations, and scalable cloud architecture.</p>
       <p>
         <a href="https://github.com/SeriySpray?tab=followers"><img src="https://img.shields.io/github/followers/SeriySpray?style=flat-square&logo=github&label=Followers&color=161b22&logoColor=white" alt="Followers" /></a>
         <a href="https://github.com/SeriySpray"><img src="https://komarev.com/ghpvc/?username=SeriySpray&style=flat-square&color=161b22&label=Views" alt="Views" /></a>
+        <a href="https://t.me/Chel_Torch"><img src="https://img.shields.io/badge/Telegram-@Chel__Torch-161B22?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
       </p>
     </td>
   </tr>
@@ -59,19 +60,6 @@ Software Engineer with a focus on building resilient web applications, intellige
   <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
-
----
-
-### GitHub Insights
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeriySpray&theme=github_dark" alt="GitHub Profile Details" width="100%" />
-  
-  <br />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeriySpray&theme=github_dark" alt="Repos Per Language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeriySpray&theme=github_dark" alt="GitHub Stats" width="49%" />
-</div>
 
 ---
 
