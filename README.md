@@ -60,14 +60,3 @@ Software Engineer with a focus on building resilient web applications, intellige
   <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
-
----
-
-### Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-SeriySpray-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeriySpray)
-[![Telegram](https://img.shields.io/badge/Telegram-@Chel__Torch-161B22?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chel_Torch)
-
-</div>
