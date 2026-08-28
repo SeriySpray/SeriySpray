@@ -1,16 +1,19 @@
-﻿<div align="center">
-  <img src="assets/banner.jpg" alt="Dithered Clouds" width="360" style="border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
-  
-  <br /><br />
-
-  <h1>Serhii Tsymbal</h1>
-  <p><b>Software Engineer • Full-Stack & AI Systems</b></p>
-
-  <p>
-    <a href="https://github.com/SeriySpray?tab=followers"><img src="https://img.shields.io/github/followers/SeriySpray?style=flat-square&logo=github&label=Followers&color=161b22&logoColor=white" alt="Followers" /></a>
-    <a href="https://github.com/SeriySpray"><img src="https://komarev.com/ghpvc/?username=SeriySpray&style=flat-square&color=161b22&label=Views" alt="Views" /></a>
-  </p>
-</div>
+﻿<table>
+  <tr>
+    <td width="190" align="center" valign="middle">
+      <img src="assets/avatar.jpg" alt="Coffee Dog" width="165" style="border-radius: 12px; border: 1px solid #30363D;" />
+    </td>
+    <td valign="middle">
+      <h1>Serhii Tsymbal</h1>
+      <p><code>Software Engineer // Coffee-driven Development</code></p>
+      <p>Focused on resilient full-stack systems, AI-powered integrations, and high-performance applications.</p>
+      <p>
+        <a href="https://github.com/SeriySpray?tab=followers"><img src="https://img.shields.io/github/followers/SeriySpray?style=flat-square&logo=github&label=Followers&color=161b22&logoColor=white" alt="Followers" /></a>
+        <a href="https://github.com/SeriySpray"><img src="https://komarev.com/ghpvc/?username=SeriySpray&style=flat-square&color=161b22&label=Views" alt="Views" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -18,9 +21,9 @@
 
 Software Engineer with a focus on building resilient web applications, intelligent AI-driven workflows, and scalable architectures. 
 
-- **Focus:** Full-stack development, AI/LLM integrations, and cloud infrastructure.
+- **Focus:** Full-stack systems, AI/LLM agent workflows, and cloud deployments.
 - **Education:** Software Engineering at **Vinnytsia National Technical University** (Grade Average: **95.9 / 100**).
-- **Core Environment:** Linux, Python, Modern Web, Oracle Cloud.
+- **Environment:** Linux, Python, Modern Web, Oracle Cloud VPS.
 
 ---
 
@@ -62,20 +65,12 @@ Software Engineer with a focus on building resilient web applications, intellige
 ### GitHub Insights
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SeriySpray&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&border_color=30363D&hide_border=false" alt="GitHub Stats" height="160" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeriySpray&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&border_color=30363D&hide_border=false" alt="Top Languages" height="160" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeriySpray&theme=github_dark" alt="GitHub Profile Details" width="100%" />
+  
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeriySpray&theme=tokyonight&background=0D1117&border=30363D&stroke=8B949E&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=8B949E&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeriySpray&theme=github_dark" alt="Repos Per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeriySpray&theme=github_dark" alt="GitHub Stats" width="49%" />
 </div>
 
 ---
@@ -85,6 +80,6 @@ Software Engineer with a focus on building resilient web applications, intellige
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-SeriySpray-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeriySpray)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-161B22?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SeriySpray)
+[![Telegram](https://img.shields.io/badge/Telegram-@Chel__Torch-161B22?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Chel_Torch)
 
 </div>
