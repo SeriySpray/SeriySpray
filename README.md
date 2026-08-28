@@ -1,20 +1,14 @@
-﻿<table>
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="assets/avatar.jpg" alt="Coffee Dog" width="165" style="border-radius: 16px; border: 2px solid #30363D; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);" />
-    </td>
-    <td valign="middle">
-      <h1>Serhii Tsymbal</h1>
-      <p><code>&gt; Software Engineer // Coffee-driven Development</code></p>
-      <p>Focused on resilient full-stack systems, AI-powered integrations, and scalable cloud architecture.</p>
-      <p>
-        <a href="https://github.com/SeriySpray?tab=followers"><img src="https://img.shields.io/github/followers/SeriySpray?style=flat-square&logo=github&label=Followers&color=161b22&logoColor=white" alt="Followers" /></a>
-        <a href="https://github.com/SeriySpray"><img src="https://komarev.com/ghpvc/?username=SeriySpray&style=flat-square&color=161b22&label=Views" alt="Views" /></a>
-        <a href="https://t.me/Chel_Torch"><img src="https://img.shields.io/badge/Telegram-@Chel__Torch-161B22?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+﻿<p>
+  <img align="left" src="assets/avatar.jpg" alt="Coffee Dog" width="145" style="border-radius: 14px; margin-right: 20px; margin-bottom: 12px;" />
+  <h1>Serhii Tsymbal</h1>
+  <code>&gt; Software Engineer // Coffee-driven Development</code><br /><br />
+  Focused on resilient full-stack systems, AI-powered integrations, and scalable cloud architecture.<br /><br />
+  <a href="https://github.com/SeriySpray?tab=followers"><img src="https://img.shields.io/github/followers/SeriySpray?style=flat-square&logo=github&label=Followers&color=161b22&logoColor=white" alt="Followers" /></a>
+  <a href="https://github.com/SeriySpray"><img src="https://komarev.com/ghpvc/?username=SeriySpray&style=flat-square&color=161b22&label=Views" alt="Views" /></a>
+  <a href="https://t.me/Chel_Torch"><img src="https://img.shields.io/badge/Telegram-@Chel__Torch-161B22?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
+
+<br clear="both" />
 
 ---
 
